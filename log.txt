@@ -1,5 +1,6 @@
-Hoàng Nhân đã ghi log: 2025-01-01 times 11:54:28
-Hoàng Nhân đã ghi log: 2025-01-01 times 11:54:35
-Hoàng Nhân đã ghi log: 2025-01-01 times 11:56:46
-Hoàng Nhân đã ghi log: 2025-01-01 times 12:03:55
-Hoàng Nhân đã ghi log: 2025-01-01 times 12:08:24
+Hoàng Nhân đã tiến hành đếm file tại địa chỉ: C:\\Users\\ADMIN\\Downloads vào thời gian: 2025-01-02 times 13:36:29
+Hoàng Nhân đã tiến hành đếm file tại địa chỉ: C:\\Users\\ADMIN\\Downloads vào thời gian: 2025-01-02 times 13:37:18
+Hoàng Nhân đã tiến hành đếm file tại địa chỉ: C:\\Users\\ADMIN\\Downloads vào thời gian: 2025-01-02 times 13:37:48
+Hoàng Nhân đã tiến hành đếm file tại địa chỉ: C:\Users\ADMIN\Documents\Visual Studio 2017 vào thời gian: 2025-01-02 times 13:42:49
+Hoàng Nhân đã tiến hành đếm file tại địa chỉ: C:\Users\ADMIN\Documents\Visual Studio 2017 vào thời gian: 2025-01-02 times 13:43:08
+Hoàng Nhân đã tiến hành đếm file tại địa chỉ: C:\Users\ADMIN\Pictures\Screenshots vào thời gian: 2025-01-02 times 13:43:59
